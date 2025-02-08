@@ -1,0 +1,15 @@
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\obj\Debug\net7.0\Library Mangement System.csproj.AssemblyReference.cache
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\obj\Debug\net7.0\Library Mangement System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\obj\Debug\net7.0\Library Mangement System.AssemblyInfoInputs.cache
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\obj\Debug\net7.0\Library Mangement System.AssemblyInfo.cs
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\obj\Debug\net7.0\Library Mangement System.csproj.CoreCompileInputs.cache
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\bin\Debug\net7.0\Library Mangement System.exe
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\bin\Debug\net7.0\Library Mangement System.deps.json
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\bin\Debug\net7.0\Library Mangement System.runtimeconfig.json
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\bin\Debug\net7.0\Library Mangement System.dll
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\bin\Debug\net7.0\Library Mangement System.pdb
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\obj\Debug\net7.0\Library Mangement System.dll
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\obj\Debug\net7.0\refint\Library Mangement System.dll
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\obj\Debug\net7.0\Library Mangement System.pdb
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\obj\Debug\net7.0\Library Mangement System.genruntimeconfig.cache
+D:\Back End Project\OOP Projects\Library Mangement System\Library Mangement System\Library Mangement System\obj\Debug\net7.0\ref\Library Mangement System.dll
